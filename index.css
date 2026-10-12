@@ -1,0 +1,90 @@
+body {
+            margin: 0;
+            background: linear-gradient(135deg, #101820, #203b32);
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-image: url(Pidor.jpg );
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        .PidorImg1{
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            position: fixed;
+            border-radius: 25px;
+           
+        }
+        .container {
+            background: #202d2b;
+            padding: 45px;
+            border-radius: 20px;
+            text-align: center;
+            box-shadow: 0 0 35px #0008;
+            max-width: 450px;
+            background-image: url(Uieban.jpg);
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        h1 {
+            color: #55ff88;
+            font-size: 36px;
+        }
+
+        .info {
+            color: #cccccc;
+            line-height: 2;
+        }
+
+        .download {
+            display: inline-block;
+            background: #35b85a;
+            color: white;
+            padding: 18px 35px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 25px;
+            transition: 0.3s;
+            background-image: url(images.png);
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+
+        }
+
+        .download:hover {
+            background: url(uzbek.png);
+            transform: scale(1.05);
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .warning {
+            font-size: 13px;
+            color: #aaaaaa;
+            margin-top: 25px;
+        }
+        .Gondon {
+            color: #28e064;
+        }
+        .KirilWarning {
+            color: #28e064;
+        }
+        .Zborka_Pidorow{
+            color: #28e064;
+        }
+        
